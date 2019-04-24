@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Introduction
 ---
 
@@ -26,10 +26,10 @@ This is an example of how the final website would look.
 <div class="introduction">
   <div class="flex-container">
     <div class="overlay">
-     <a href="/storiesIndex.html"><span class="caption" style="display:block">Short stories</span></a>
+     <a href="storiesIndex.html"><span class="caption" style="display:block">Short stories</span></a>
     </div>
     <div class="overlay">
-      <a href="/imagesIndex.html"><span class="caption" style="display:block">Short story images</span></a>
+      <a href="imagesIndex.html"><span class="caption" style="display:block">Short story images</span></a>
     </div>
   </div>
 </div>

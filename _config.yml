@@ -25,7 +25,7 @@ url: "https://jnewton3edinburgh.github.io/shortStories/" # the base hostname & p
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: "ed."
+#theme: "ed."
 plugins:
   - jekyll-feed
 
